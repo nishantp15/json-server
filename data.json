@@ -2,8 +2,7 @@
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
   "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" },
-  "products": {
-    "data": [
+  "products": [
       {
         "id": 1,
         "brand": "roadster",
@@ -324,7 +323,5 @@
         "price": 3500,
         "category": "homedecor"
       }
-    ],
-    "totalPages": 1
-  }
+    ]
 }
